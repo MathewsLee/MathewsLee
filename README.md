@@ -31,7 +31,7 @@
 ## 📫 Connect with Me
 - [LinkedIn](#) (www.linkedin.com/in/mathewslee)  
 - [LeetCode](#) (https://leetcode.com/u/Mathews_Lee/)  
-- [Email](mathewslee273@gmail.com)  
+- [Email](#) (mathewslee273@gmail.com)  
 
 ---
 
