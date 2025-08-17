@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Mathews  
 
-<!--
-**MathewsLee/MathewsLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Computer Science Engineering student  
+🤖 Interested in **Artificial Intelligence**, **Machine Learning**, and **Competitive Programming**  
+💻 Skilled in **Python** and **DBMS**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **Data Structures & Algorithms** and exploring **AI/ML basics**  
+- 💡 Love solving problems and taking part in coding challenges  
+- 📊 Beginner in **Database Management Systems (DBMS)** and SQL queries  
+- 🎯 Goal: To build impactful projects while sharpening my problem-solving skills  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C/C++ (learning)  
+- **Databases:** DBMS (SQL)  
+- **Tools & Platforms:** GitHub, VS Code, Jupyter Notebook  
+
+---
+
+## 📌 Current Focus
+- 🔍 Exploring **Machine Learning fundamentals**  
+- 🏆 Practicing **competitive programming** on platforms like Codeforces, LeetCode, and HackerRank  
+- 📂 Building small projects to strengthen my **Python & DBMS skills**  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](#) (add your link here)  
+- [LeetCode](#) (add your profile)  
+- [Email](mailto:your-email@example.com)  
+
+---
+
+⭐️ *Always eager to learn, build, and contribute to open-source!*
