@@ -29,9 +29,9 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](#) (add your link here)  
-- [LeetCode](#) (add your profile)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn](#) (www.linkedin.com/in/mathewslee)  
+- [LeetCode](#) (https://leetcode.com/u/Mathews_Lee/)  
+- [Email](mathewslee273@gmail.com)  
 
 ---
 
